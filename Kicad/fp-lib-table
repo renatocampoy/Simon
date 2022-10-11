@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "BS-7 (suporte bateria)")(type "KiCad")(uri "/Users/renatocampoy/Documents/Symbol and Footprint/BS-7 (suporte bateria)")(options "")(descr ""))
+  (lib (name "5-1437565-0 (btn smd)")(type "KiCad")(uri "/Users/renatocampoy/Documents/Symbol and Footprint/5-1437565-0 (btn smd)")(options "")(descr ""))
+  (lib (name "EG1215AA(Slide Switch)")(type "KiCad")(uri "/Users/renatocampoy/Documents/Symbol and Footprint/EG1215AA(Slide Switch)")(options "")(descr ""))
+)
