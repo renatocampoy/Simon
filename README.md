@@ -8,4 +8,4 @@ Desenvolvido com o micro-controlador ATtiny85, no reprositorio você vai encontr
 ### Duvidas e sujestões: campoytech@gmail.com 
 Siga: https://www.instagram.com/campoytech
 
-![alt text](https://github.com/renatocampoy/Simon/blob/main/pcb.png?raw=true)
+![alt text](https://raw.githubusercontent.com/renatocampoy/Simon/refs/heads/main/pcb.png)
